@@ -7,6 +7,6 @@
 #include <stdio.h> 
  
 int main(int argc, char **argv) {
-  printf("Andy Nguyen\n");
+  printf("Andy Nguyen/Nhan Nguyen\n");
   return 0;
 }
